@@ -1,0 +1,2 @@
+# fps-booster.lua
+Dammit
